@@ -12,68 +12,131 @@ Industrial SPA automation and supervision system based on Siemens S7-200 SMART P
 
 ## Overview
 
-Industrial SPA Automation Platform
+Plateforme d'automatisation et de supervision pour Spa
 
-Spanex is a complete automation and supervision system for spas, hot tubs and water treatment installations.
+Spanex est une solution complète de pilotage et de supervision développée autour d'un automate Siemens S7-200 SMART et d'une interface opérateur (IHM).
 
-Built around a Siemens S7-200 SMART PLC and industrial HMI, Spanex manages:
+Le système permet de gérer automatiquement l'ensemble des fonctions d'un spa :
 
 - Filtration
-- Heating
-- Water chemistry
-- pH regulation
-- ORP monitoring
-- Water level control
-- Jets and air blowers
-- Alarm management
-- Equipment runtime monitoring
-- Modbus RS485 devices
+- Chauffage
+- Traitement de l'eau
+- Régulation du pH
+- Mesure ORP / Redox
+- Gestion du niveau d'eau
+- Jets hydromassants
+- Soufflerie d'air
+- Éclairage
+- Alarmes et sécurités
 
-## Features
+---
 
-### Water Treatment
+## Fonctionnalités
 
-- pH monitoring
-- ORP monitoring
-- Automatic chemical dosing
-- Sensor calibration offsets
+### Gestion de la filtration
 
-### Equipment Control
+- Cycles automatiques
+- Gestion été / hiver
+- Surveillance du fonctionnement
+- Historisation des temps de marche
 
-- Jets control
-- Air blower control
-- Heating management
-- Lighting management
-- Filtration management
+### Gestion du chauffage
 
-### Monitoring
+- Contrôle de la température d'eau
+- Surveillance des consignes
+- Protection des équipements
 
-- Runtime counters
-- Alarm management
-- Temperature monitoring
-- Historical data
+### Traitement de l'eau
 
-### Connectivity
+- Mesure pH
+- Mesure ORP (Redox)
+- Calibration des sondes
+- Injection automatique des correcteurs
 
-- Siemens S7-200 SMART
+### Gestion des équipements
+
+- Jets hydromassants
+- Soufflerie d'air
+- Éclairage
+- Pompes auxiliaires
+
+### Supervision
+
+- Interface opérateur tactile
+- Réglage des paramètres
+- Visualisation des alarmes
+- Historique de fonctionnement
+
+### Communication
+
 - Modbus RTU RS485
-- Industrial HMI
+- Capteurs intelligents
+- Extensions futures IoT
 
-## Future Roadmap
+---
 
-- MQTT
-- Home Assistant integration
-- Web dashboard
-- Remote monitoring
-- Energy analytics
+## Matériel utilisé
 
-## Hardware
+### Automatisme
 
 - Siemens S7-200 SMART
-- RS485 sensors
-- Industrial HMI
-- Variable speed pumps
 
-## License
+### Interface opérateur
 
-DaryanLab
+- IHM industrielle
+
+### Capteurs
+
+- Sonde pH
+- Sonde ORP
+- Capteurs de température
+- Capteurs de niveau
+- Capteurs de pression
+
+### Communication
+
+- Modbus RTU
+- RS485
+
+---
+
+## Fonctions avancées
+
+- Comptage des heures de fonctionnement
+- Surveillance thermique des moteurs
+- Gestion des défauts
+- Acquittement des alarmes
+- Paramétrage utilisateur
+- Gestion des saisons été / hiver
+
+---
+
+## Évolutions prévues
+
+- Dashboard Web
+- MQTT
+- Home Assistant
+- Supervision à distance
+- Historisation Cloud
+- Notifications automatiques
+- Analyse énergétique
+
+---
+
+## Structure du projet
+
+```text
+PLC/
+├── Projet Siemens S7-200 SMART
+
+HMI/
+├── Projet Interface Opérateur
+
+Docs/
+├── Documentation
+├── Cartographie Modbus
+├── Liste des Entrées/Sorties
+
+Images/
+├── Captures d'écran
+├── Schémas
