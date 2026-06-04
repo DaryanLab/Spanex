@@ -1,5 +1,5 @@
 # Spanex
-Gestion d'un spa maçonné via un automate Siemens S7-200, une HMI affichant me pH, l'ORP, la température de l'eau, de la PaC, des moteurs des pompes le tout en RS485.
+Gestion d'un spa maçonné via un automate Siemens S7-200, une HMI affichant le pH avec correction automatique via moteurs pas-à-pas, l'ORP, la température de l'eau, la PaC, les températures des pompes le tout en RS485.
 
 <img width="1239" height="929" alt="image" src="https://github.com/user-attachments/assets/488b89d3-cade-40ed-b35d-5db0a76c2c82" />
 
