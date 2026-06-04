@@ -12,102 +12,68 @@ Industrial SPA automation and supervision system based on Siemens S7-200 SMART P
 
 ## Overview
 
-Spanex is an automation project designed for SPA management and monitoring.
+Industrial SPA Automation Platform
 
-The system supervises:
+Spanex is a complete automation and supervision system for spas, hot tubs and water treatment installations.
 
-- Water temperature
-- Filtration cycles
-- Heating control
-- Water treatment
-- Alarms and notifications
-- User settings and recipes
+Built around a Siemens S7-200 SMART PLC and industrial HMI, Spanex manages:
 
-The project combines:
-
-- Siemens S7-200 SMART PLC
-- HMI interface
-- Industrial communication
-- Automated process management
-
----
-
-## Main Features
-
-### Water Management
-
-- Temperature monitoring
-- Heating control
-- Filtration management
-- Safety monitoring
-
-### Automation
-
-- Automatic operating modes
-- Scheduled filtration cycles
+- Filtration
+- Heating
+- Water chemistry
+- pH regulation
+- ORP monitoring
+- Water level control
+- Jets and air blowers
 - Alarm management
-- Equipment control
+- Equipment runtime monitoring
+- Modbus RS485 devices
 
-### HMI Supervision
+## Features
 
-- Real-time monitoring
-- Parameter adjustment
-- Recipe management
-- Historical information
+### Water Treatment
 
----
+- pH monitoring
+- ORP monitoring
+- Automatic chemical dosing
+- Sensor calibration offsets
 
-## Technologies
+### Equipment Control
 
-### PLC
+- Jets control
+- Air blower control
+- Heating management
+- Lighting management
+- Filtration management
+
+### Monitoring
+
+- Runtime counters
+- Alarm management
+- Temperature monitoring
+- Historical data
+
+### Connectivity
 
 - Siemens S7-200 SMART
-- Ladder Logic
-
-### HMI
-
+- Modbus RTU RS485
 - Industrial HMI
-- Recipe database
-- Alarm management
 
-### Communication
+## Future Roadmap
 
-- Modbus RTU
-- RS485
-
----
-
-## Project Structure
-
-- PLC program (.smart)
-- HMI project (.hmi)
-- Documentation
-- Screenshots
-
----
-
-## Screenshots
-
-Add screenshots of:
-
-- Main dashboard
-- Temperature page
-- Filtration page
-- Alarm page
-- Settings page
-
----
-
-## Future Improvements
-
-- Web dashboard
-- MQTT integration
+- MQTT
 - Home Assistant integration
-- Cloud monitoring
-- Energy consumption tracking
+- Web dashboard
+- Remote monitoring
+- Energy analytics
 
----
+## Hardware
+
+- Siemens S7-200 SMART
+- RS485 sensors
+- Industrial HMI
+- Variable speed pumps
 
 ## License
 
-Private project - DaryanLab
+DaryanLab
