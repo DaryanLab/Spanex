@@ -125,6 +125,7 @@ Le système permet de gérer automatiquement l'ensemble des fonctions d'un spa :
 
 ## PHOTOS
 <img width="1080" height="810" alt="image" src="https://github.com/user-attachments/assets/1667b7f7-6218-49b7-9a5d-0be3424876e3" />
+<img width="1080" height="810" alt="image" src="https://github.com/user-attachments/assets/ab04ef7a-309a-484e-b1ab-954d0f5229b2" />
 <img width="1080" height="810" alt="image" src="https://github.com/user-attachments/assets/350f5d2d-b46f-433c-9349-eaf9dfea5af3" />
 <img width="1080" height="810" alt="image" src="https://github.com/user-attachments/assets/6caa01f1-3ea9-40cc-bf27-7153b85ac54a" />
 <img width="1080" height="810" alt="image" src="https://github.com/user-attachments/assets/e3022997-6505-496d-b4a7-12fa7dac369a" />
@@ -135,7 +136,6 @@ Le système permet de gérer automatiquement l'ensemble des fonctions d'un spa :
 <img width="1080" height="810" alt="image" src="https://github.com/user-attachments/assets/861b44de-ba92-48fc-b474-c0ba2915621b" />
 <img width="1080" height="810" alt="image" src="https://github.com/user-attachments/assets/6361e04b-c217-4d9f-ad07-db1201ecedee" />
 <img width="1080" height="810" alt="image" src="https://github.com/user-attachments/assets/96656cbc-83b2-4e3f-8b2f-33e01d2b1bec" />
-<img width="1080" height="810" alt="image" src="https://github.com/user-attachments/assets/b24ec705-8bf1-429a-8b83-fcdf0ea6bbd4" />
 <img width="1080" height="810" alt="image" src="https://github.com/user-attachments/assets/055d2f45-bb97-4f81-93b2-67243566ce22" />
 <img width="1080" height="810" alt="image" src="https://github.com/user-attachments/assets/63c27021-e241-4b5a-ba4c-9cb19b59a6c0" />
 <img width="1080" height="810" alt="image" src="https://github.com/user-attachments/assets/094cb7d4-5527-4568-aa9a-7c57c1a454d9" />
