@@ -142,6 +142,8 @@ Le système permet de gérer automatiquement l'ensemble des fonctions d'un spa :
 <img width="1080" height="1440" alt="image" src="https://github.com/user-attachments/assets/7bed169f-dd68-4d9a-80d6-14dc36f4d87f" />
 <img width="1080" height="810" alt="image" src="https://github.com/user-attachments/assets/b80569aa-ed66-47e4-bbca-7c7618de2ab4" />
 <img width="1080" height="810" alt="image" src="https://github.com/user-attachments/assets/c3a84212-7f20-4b3e-9999-dc0ec3ed012f" />
+<img width="1080" height="810" alt="image" src="https://github.com/user-attachments/assets/5669ce80-4d36-4c40-a2bc-d5d6ef1e9193" />
+
 <img width="1080" height="810" alt="image" src="https://github.com/user-attachments/assets/fe952f3f-5d08-48c8-acb2-9e1a4ca5f251" />
 <img width="1080" height="810" alt="image" src="https://github.com/user-attachments/assets/06d13ab0-f035-4153-852b-d9fbfd8c1959" />
 <img width="1080" height="810" alt="image" src="https://github.com/user-attachments/assets/e9cb30b5-a072-43e5-a721-9f8ddf684be7" />
